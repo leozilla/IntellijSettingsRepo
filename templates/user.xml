@@ -1,0 +1,63 @@
+<templateSet group="user">
+  <template name="ctor" value="/**&#10; * Creates a new instance of $className$.&#10; */&#10;public $className$() {&#10;    $END$&#10;}" description="Constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger LOG = LoggerFactory.getLogger($className$.class);" description="slf4j logger field" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bddh" value="/**&#10; * Given =&gt; $GIVEN$&#10; * When  =&gt; $WHEN$&#10; * Then  =&gt; $THEN$&#10; */&#10;@Test" description="BDD Unit Test Header" toReformat="false" toShortenFQNames="true">
+    <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="uinit" value="@Before&#10;public void init() {&#10;    $END$&#10;}" description="junit test initialization" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="///" value="/**&#10; * $END$&#10; */" shortcut="ENTER" description="Expand to JavaDoc comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="sver" value="private static final long serialVersionUID = 1L;" description="private static final long serialVersionUID = 1L;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pctor" value="private $className$() { }" description="Private Constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="test" value="/**&#10; * Given =&gt; $GIVEN_COMMENT$&#10; * When  =&gt; $WHEN_COMMENT$&#10; * Then  =&gt; $THEN_COMMENT$&#10; */&#10;@Test&#10;public void $ACTION$_$PRECONDITION$_shall$EXPECTATION$() {&#10;    // GIVEN&#10;    &#10;    &#10;    // WHEN&#10;    &#10;    &#10;    // THEN&#10;    &#10;}" description="Full test template" toReformat="false" toShortenFQNames="true">
+    <variable name="GIVEN_COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN_COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN_COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRECONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="asseq" value="assertThat(&quot;$MESSAGE$&quot;, $ACTUAL$, equalTo($EXPECTED$));" description="Hamcrest assertThat equalTo" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -106,9 +106,13 @@
           <option name="url" value="https://github.com/xldrx/cloudapp-mp2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LMAX-Exchange/disruptor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\work\GitHubRepos" />
+    <option name="cloneParentDir" value="D:\work\repos" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="D:\private\Dropbox\Dropbox\Work\WorkingPatches" />

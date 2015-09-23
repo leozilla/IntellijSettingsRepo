@@ -167,6 +167,9 @@
           <projects_view />
         </option>
       </component>
+      <component name="ScalaSbtSettings">
+        <option name="maximumHeapSize" value="1024" />
+      </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">

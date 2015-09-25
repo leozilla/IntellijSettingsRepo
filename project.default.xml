@@ -157,6 +157,7 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="D:/work/repos/akka" value="58998067512324" />
             <entry key="D:/work/repos/coding-dojo-template" value="1435251900073" />
             <entry key="D:/work/repos/nodescala/nodescala" value="1430646121994" />
             <entry key="D:/work/repos/quickcheck" value="1429464406122" />
@@ -165,6 +166,9 @@
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="maximumHeapSize" value="1024" />
       </component>
       <component name="masterDetails">
         <states>

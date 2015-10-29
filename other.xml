@@ -27,6 +27,10 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
     </filter>
@@ -47,54 +51,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
-  <component name="GlobalAntConfiguration">
-    <filtersTableLayout />
-    <propertiesTableLayout />
-  </component>
   <component name="RefactoringSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
-    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-  </component>
-  <component name="SelectProjectTemplateSettings">
-    <option name="EXPERT_MODE" value="true" />
-  </component>
-  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="C:\Users\dleonhar\Dropbox\Work\WorkingPatches">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\dleonhar\Dropbox\Work\WorkingPatches" />
-  </component>
-  <component name="XPathView.XPathViewPlugin">
-    <option name="attributes">
-      <TextAttributes />
-    </option>
-    <option name="contextAttributes">
-      <TextAttributes />
-    </option>
-  </component>
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
-    <recent_templates>
-      <option name="RECENT_TEMPLATES">
-        <value>
-          <list size="1">
-            <item index="0" class="java.lang.String" itemvalue="UML Sequence" />
-          </list>
-        </value>
-      </option>
-    </recent_templates>
-  </component>
-  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
-    <ignored-resource url="http://exslt.org/math" />
-    <ignored-resource url="http://exslt.org/dynamic" />
-    <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
-    <ignored-resource url="http://exslt.org/sets" />
-    <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>

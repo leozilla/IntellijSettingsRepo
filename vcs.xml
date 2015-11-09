@@ -130,6 +130,10 @@
           <option name="url" value="http://DLeonhar@stash.frequentis.frq/scm/plx/ps-csi-deploy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stash.frequentis.frq/scm/plx/ps-validation-rules.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work\lifex" />

@@ -146,6 +146,10 @@
           <option name="url" value="http://DLeonhar@stash.frequentis.frq/scm/plx/ps-system-integration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://DLeonhar@stash.frequentis.frq/scm/plx/ps-conversation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work\lifex" />

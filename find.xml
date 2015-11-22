@@ -1,24 +1,22 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'ps-core'" />
-    <option name="defaultScopeName" value="Module 'ps-core'" />
+    <option name="customScope" value="Directory 'E:\work\lifeX\ps-platform\ps-core\src\main\java\com\frequentis\ps\core'" />
+    <option name="defaultScopeName" value="Directory 'E:\work\lifeX\ps-platform\ps-core\src\main\java\com\frequentis\ps\core'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'ps-core'" />
+    <option name="SEARCH_SCOPE" value="Directory 'E:\work\lifeX\ps-platform\ps-core\src\main\java\com\frequentis\ps\core'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
-      <mask>*.pom</mask>
-      <mask>pom.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'E:\work\lifeX\ps-platform\ps-adapters\ps-adapter-test\src\main\java\com\frequentis\ps\adapter\test\integration'" />
-    <option name="defaultScopeName" value="Directory 'E:\work\lifeX\ps-platform\ps-adapters\ps-adapter-test\src\main\java\com\frequentis\ps\adapter\test\integration'" />
+    <option name="customScope" value="Directory 'E:\work\lifeX\ps-platform\ps-core-test\src\main\java\com\frequentis\ps\core\test'" />
+    <option name="defaultScopeName" value="Directory 'E:\work\lifeX\ps-platform\ps-core-test\src\main\java\com\frequentis\ps\core\test'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'E:\work\lifeX\ps-platform\ps-adapters\ps-adapter-test\src\main\java\com\frequentis\ps\adapter\test\integration'" />
+    <option name="SEARCH_SCOPE" value="Directory 'E:\work\lifeX\ps-platform\ps-core-test\src\main\java\com\frequentis\ps\core\test'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

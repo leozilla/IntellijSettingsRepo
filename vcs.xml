@@ -22,6 +22,10 @@
           <option name="url" value="https://DLeonhar@stash.frequentis.frq/scm/plx/ps-platform-base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DLeonhar@stash.frequentis.frq/scm/plx/ps-communication-contract.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work\lifeX" />

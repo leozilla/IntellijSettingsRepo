@@ -2,5 +2,7 @@
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="cafd2adc-3512-4373-b491-c92e8509c72e" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
+    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
   </component>
 </application>

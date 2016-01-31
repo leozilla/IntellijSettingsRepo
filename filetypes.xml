@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="DLE-home-best" type="PLAIN_TEXT" />
+      <mapping pattern="UserSession" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

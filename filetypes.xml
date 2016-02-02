@@ -4,6 +4,7 @@
       <mapping pattern="DLE-home-best" type="PLAIN_TEXT" />
       <mapping pattern="UserSession" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionV1" type="PLAIN_TEXT" />
+      <mapping pattern="UserSessionAggregate" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="JSON" injector-id="java">
+      <display-name>IsEqual.equalTo (org.hamcrest.core)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("equalTo").withParameters("java.lang.Object").definedInClass("org.hamcrest.core.IsEqual"))]]></place>
+    </injection>
   </component>
 </application>

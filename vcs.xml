@@ -82,6 +82,10 @@
           <option name="url" value="https://DLeonhar@stash.frequentis.frq/scm/plx/ps-state-machine.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DLeonhar@stash.frequentis.frq/scm/plx/ps-platform-master.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work\lifeX" />

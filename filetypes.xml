@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="2043506196982001058#710699013" type="PLAIN_TEXT" />
       <mapping pattern="DLE-home-best" type="PLAIN_TEXT" />
       <mapping pattern="UserSession" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionAggregateListToMap" type="PLAIN_TEXT" />

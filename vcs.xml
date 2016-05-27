@@ -110,6 +110,10 @@
           <option name="url" value="https://stash.frequentis.frq/scm/plx/ps-mongo-persistence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DLeonhar@stash.frequentis.frq/scm/plx/ps-b2bua.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work\lifeX" />

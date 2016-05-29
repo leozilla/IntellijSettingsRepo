@@ -118,9 +118,13 @@
           <option name="url" value="https://github.com/leozilla/parprog1-scalashop" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.frequentis.frq/scm/plx/ps-media-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\coursera\fppar\week1" />
+    <option name="cloneParentDir" value="E:\work\lifeX" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\david\Dropbox\Work\WorkingPatches" />

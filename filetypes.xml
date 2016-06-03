@@ -10,7 +10,6 @@
       <mapping pattern="7844169202146107607#1917412919" type="PLAIN_TEXT" />
       <mapping pattern="26032016" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionAggregate" type="PLAIN_TEXT" />
-      <mapping ext="story" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

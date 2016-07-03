@@ -6,6 +6,7 @@
       <mapping pattern="16678d1388375f634b0d2f726d9db34973c15125" type="PLAIN_TEXT" />
       <mapping pattern="UserSession" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionAggregateListToMap" type="PLAIN_TEXT" />
+      <mapping pattern="e32d6c9fb707fe93514778cb3601dbc30a0c4854_prof-gc" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionV1" type="PLAIN_TEXT" />
       <mapping pattern="1000" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />

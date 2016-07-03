@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="2043506196982001058#710699013" type="PLAIN_TEXT" />
       <mapping pattern="DLE-home-best" type="PLAIN_TEXT" />
+      <mapping pattern="16678d1388375f634b0d2f726d9db34973c15125" type="PLAIN_TEXT" />
       <mapping pattern="UserSession" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionAggregateListToMap" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionV1" type="PLAIN_TEXT" />

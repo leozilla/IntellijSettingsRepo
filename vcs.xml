@@ -146,9 +146,17 @@
           <option name="url" value="https://github.com/leozilla/progfun1-forcomp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DLeonhar@stash.frequentis.frq/scm/bb-fcsc-a/logging.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DLeonhar@git.frequentis.frq/scm/bb-fcsc-a/logging.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\coursera" />
+    <option name="cloneParentDir" value="E:\work\common" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\david\Dropbox\Work\WorkingPatches" />

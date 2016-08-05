@@ -10,6 +10,7 @@
       <mapping pattern="e32d6c9fb707fe93514778cb3601dbc30a0c4854_prof-gc" type="PLAIN_TEXT" />
       <mapping pattern="UserSessionV1" type="PLAIN_TEXT" />
       <mapping pattern="1000" type="PLAIN_TEXT" />
+      <mapping pattern="00f2a9dc-ba6c-4e6f-b5ed-675e8c469a8b#-319934090" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="7844169202146107607#1917412919" type="PLAIN_TEXT" />
       <mapping pattern="26032016" type="PLAIN_TEXT" />

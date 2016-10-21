@@ -4,6 +4,9 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.gigaspaces.internal.utils.collections.economy" />
     <EXCLUDED_PACKAGE NAME="edu.emory" />
+    <EXCLUDED_PACKAGE NAME="org.assertj" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.powermock.api.mockito.PowerMockito" />
   </component>
 </application>

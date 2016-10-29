@@ -19,6 +19,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="expected-output" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
